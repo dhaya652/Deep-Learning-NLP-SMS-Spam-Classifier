@@ -1,0 +1,6 @@
+Message,Prediction,Confidence
+Congratulations! You won a free prize. Claim now!,SPAM,0.9875
+"Hey, are we meeting tomorrow?",HAM,0.9891
+URGENT! You have won a cash reward. Call now!,SPAM,0.9418
+Please send me your assignment notes.,HAM,0.968
+Free entry in our weekly competition. Text WIN!,SPAM,0.9375
